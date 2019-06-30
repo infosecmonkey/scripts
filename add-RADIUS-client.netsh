@@ -1,0 +1,9 @@
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%
+netsh nps add client name=%Friendly-NAME-of-Device%	192.168.2.xyz	state=Enable	sharedsecret=%shared-secret%

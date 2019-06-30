@@ -1,0 +1,8 @@
+
+
+
+This script is used to add a bunch of devices to a Windows RADIUS server. You can check out this document that gives you a good idea
+on what to do on the Microsoft side as well as the Cisco side.
+
+http://www.freeccnaworkbook.com/blog/ccna-security/cisco-ios-radius-authentication-with-windows-server-2012-nps
+
